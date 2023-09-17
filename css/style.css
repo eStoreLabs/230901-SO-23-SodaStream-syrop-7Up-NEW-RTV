@@ -866,7 +866,7 @@
     text-align: center;
   }
   #es-sodastream.es-sodastream .es-efficiency__img {
-    max-width: 550px;
+    /* max-width: 550px; */
     margin: 30px 0;
   }
 
